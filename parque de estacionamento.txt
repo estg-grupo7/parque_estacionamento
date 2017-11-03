@@ -1,0 +1,34 @@
+- gestao de pisos: 	piso0 - clientes mensais
+					piso1 - clientes ocasionais
+					
+- gestao de clientes mensais:
+	numero de cliente
+	nome do cliente
+	NIF do cliente
+	tipo de veiculo (carro/mota/camiao/autocarro)
+	matricula
+
+	
+- gestao de cliente ocasionais:
+	tipo de veiculo
+	matricula
+	hora de entrada
+	hora de saida
+					
+- tarifario:
+15 Minutos – 0,20 Euros; 
+30 Minutos – 0.30 Euros; 
+45 Minutos – 0,40 Euros; 
+60 Minutos - 0,50 Euros; 
+Mais de 6 horas de parqueamento – 3 Euros (valor máx/dia). 
+Reserva Mensal – 35,00 Euros.
+
+- relatórios:
+	numero de clientes mensais/ocasionais diarios/mensal/anual
+	media de clientes mensais/ocasionais diarios/mensal/anual
+	media tempo clientes mensais/ocasionais diarios/mensal/anual
+
+- saber qual o lugar onde se encontra determinado veiculo
+
+- desenhar os lugares do parque
+	
